@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity GRC Projects:</h2>
 
-- [Win10-Vulnarability-Scanning-Tenable Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/landryjatsa/Win10-Vulnerability-Scanning-Tenable/tree/main))
+- [Win10-Vulnarability-Scanning-Tenable Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/landryjatsa/Win10-Vulnerability-Scanning-Tenable/tree/main)
 
 <h2>📝 Certifications </h2>
 
